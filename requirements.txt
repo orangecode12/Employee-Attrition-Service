@@ -1,0 +1,13 @@
+numpy 
+pandas 
+scikit-learn 
+flask 
+wget 
+matplotlib 
+tqdm 
+ipywidgets 
+ipykernel
+seaborn 
+pickle-mixin 
+requests 
+xgboost
